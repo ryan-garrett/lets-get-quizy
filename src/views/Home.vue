@@ -6,6 +6,7 @@
       </span>
     </Navbar>
     <Title text="Lets Get Quizy" />
+    <img href="../assets/images/Group3.svg"/>
     <RadioButton radioBtnName='genreSelect' :value='option3' @radio-clicked="pickGenre" iconType="has-icon">
       <Icon
         :icon='option3Icon'
