@@ -1,0 +1,37 @@
+// House styling
+$primary-colour: #0F0C29;
+$secondary-colour: #0F0C29;
+$background-gradient: #FFF;
+// $background-gradient: linear-gradient(#F09819, #EDDE5D);
+// $background-gradient: linear-gradient(#42275a, #734b6d);
+$background-colour: #FFF;
+
+// Breaking point
+$desktop-breaking-point: 1300px;
+
+// Titles
+$title-font: MildLifeRegular;
+$sub-heading-font: MildLifeRegular;
+
+// Default font
+$primary-font: 'Avenir', Helvetica, Arial, sans-serif;
+$font-colour: red;
+
+// Button border style
+$border-width: 3px;
+$border-colour: #000;
+$border-style: solid;
+$border-radius: 0.5rem;
+$selected-border-colour: #000;
+$hover-border-colour: #000;
+
+// Button style
+$button-text-size: 2em;
+$button-padding: .15rem .75rem;
+$button-width: 100%;
+$button-colour: #000;
+$button-background-colour: transparent;
+$hover-colour: #FF904B;
+$hover-text-colour: #000;
+$selected-colour: #FF904B;
+$selected-text-colour: #000;
